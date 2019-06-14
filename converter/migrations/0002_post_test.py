@@ -8,7 +8,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bioapp', '0001_initial'),
+        ('converter', '0001_initial'),
     ]
 
     operations = [

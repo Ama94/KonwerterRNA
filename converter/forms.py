@@ -17,4 +17,4 @@ class TestForm(forms.Form):
 	(4, "gorska"),
 	)   
     formaty = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices=form_options)
-    wizualizacja = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices=wiz_options)	
+    wizualizacja = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices=wiz_options)

@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'personal',
-    'bioapp',
+    'converter',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
